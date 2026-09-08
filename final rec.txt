@@ -10,3 +10,4 @@ much as the length of the song. This is because the raw dot and raw cosine metho
 Instead, those two methods reward them, rather than just focusing on words with substance or words that are less common.
 
 To make the system better, we could compare the names of the songs in addition to the TFIDF Cosine method.
+
