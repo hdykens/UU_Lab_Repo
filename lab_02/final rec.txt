@@ -1,0 +1,23 @@
+~~Final Recommendations~~
+By: Hannah Sweazey, Hannah Dykens, Tejas Reddy, Susanna Huang
+
+We recommend the TF-IDF cosine method because this provides the most recommendations of songs with a matching
+genere to the reference song. The dot method had hit count totals of 450 for 0 hits, 64 for 1 hit, and 46 for 2 hits.
+The cosine method had hit count totals of 340 for 0 hits, 138 for 1 hit, 55 for 2 hits, and 27 for 3 hits.
+Finally, the TF-IDF cosine method had hit count totals of 315 for 0 hits, 152 for 1 hit, 62 for 2 hits, and 31 for 3 hits.
+Compared to the raw dot and raw cosine methods, the TF-IDF cosine method does much better and is more accurate because it is taking 
+word frequency into account.
+
+One limitation of lyric word counts alone is that the content of the song is not what is being valued as 
+much as the length of the song. This is because the raw dot and raw cosine methods do not ignore filler-words.
+Instead, those two methods reward them, rather than just focusing on words with substance or words that are less common.
+
+When looking at the IDF dataframe, we noticed that filler words were prominent since we were sorting by IDF score and therefore
+document frequency. Even though the TF-IDF cosine method was the best method (compared to the raw dot and raw cosine methods), 
+we thought that we could improve it by attempting to remove filler words. We hoped that this would prevent filler words from 
+drowning out more desciptive words and therefore provide better recommendations. We tested six different cut-off values 
+of document frequency. Since the highest frequency value in the dataframe was around 5,000, we thought that values of 
+4,000, 4,500, 3,000, 1,000, 750, and 500 would be the most insightful. We wanted to capture both the extremes of not 
+cutting out enough filler words and starting to cut out important words. We found that the optimal cut-off was at 4,000 
+since that is when the mean hit count was the highest. Thus, we recommend a TF-IDF cosine method with a document frequency 
+cut-off at 4,000 for this dataset. The cut-off should be reevaluated if inputting different data.
