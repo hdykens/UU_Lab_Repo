@@ -1,4 +1,4 @@
-~~Final recommendations~~
+~~Final Recommendations~~
 By: Hannah Sweazey, Hannah Dykens, Tejas Reddy, Susanna Huang
 
 We recommend the TF-IDF cosine method because this provides the most recommendations of songs with a matching
