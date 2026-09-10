@@ -180,6 +180,6 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
-data/*.csv
-data/*.gz
+*/data/*.csv
+*/data/*.gz
 .DS_Store
