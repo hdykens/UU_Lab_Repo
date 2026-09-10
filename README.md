@@ -1,7 +1,7 @@
 # Lab 2 Assignment
-*In the `lab_02/` directory*
+## *In the `lab_02/` directory*
 
-*Worked on by Tejas Reddy, Hannah Sweazey, Hannah Dykens, and Susanna Huang*
+## *Worked on by Tejas Reddy, Hannah Sweazey, Hannah Dykens, and Susanna Huang*
 
 `lab_02_in_class.py` --> contains the lab questions and our answers
 
