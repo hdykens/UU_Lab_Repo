@@ -1,5 +1,15 @@
+# Lab 3 Assignment
+## *In the [`lab_03/`](https://github.com/hdykens/UU_Lab_Repo/tree/main/lab_03 )directory*
+
+## *Worked on by Tejas Reddy, Hannah Sweazey, Hannah Dykens, and Susanna Huang*
+
+`lab_03.ipynb` --> contains the lab questions and our answers
+
+
+`ed_visits_probability_lab_codebook.md` --> contains codebook information on dataset
+
 # Lab 2 Assignment
-## *In the `lab_02/` directory*
+## *In the [`lab_02/`](https://github.com/hdykens/UU_Lab_Repo/tree/main/lab_02) directory*
 
 ## *Worked on by Tejas Reddy, Hannah Sweazey, Hannah Dykens, and Susanna Huang*
 
@@ -12,7 +22,9 @@
 `DIY Mean vs. Frequency Cutoff Graph.png` --> contains the final summary of findings
 
 # Lab 1 Assignment
-*Worked on by Hannah Sweazey, Hannah Dykens, and Susanna Huang*
+## *In the [`lab_01/`](https://github.com/hdykens/UU_Lab_Repo/tree/main/lab_03) directory*
+
+## *Worked on by Hannah Sweazey, Hannah Dykens, and Susanna Huang*
 
 `initial_analysis.py` --> contains exploration of the foreign gift dataset
 
