@@ -1,5 +1,15 @@
+# Lab 4 Assignment
+## *In the [`lab_04/`](https://github.com/hdykens/UU_Lab_Repo/tree/main/lab_04) directory*
+
+## *Worked on by Tejas Reddy, Hannah Sweazey, and Hannah Dykens*
+
+`lab_04.ipynb` --> contains the lab questions and our answers
+
+
+`lab_04.md/pdf` --> contains codebook information on dataset
+
 # Lab 3 Assignment
-## *In the [`lab_03/`](https://github.com/hdykens/UU_Lab_Repo/tree/main/lab_03 )directory*
+## *In the [`lab_03/`](https://github.com/hdykens/UU_Lab_Repo/tree/main/lab_03) directory*
 
 ## *Worked on by Tejas Reddy, Hannah Sweazey, Hannah Dykens, and Susanna Huang*
 
