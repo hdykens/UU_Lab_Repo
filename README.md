@@ -1,3 +1,10 @@
+# Lab 5 Assignment
+## *In the [`lab_05/`](https://github.com/hdykens/UU_Lab_Repo/tree/main/lab_05) directory*
+
+## *Worked on by Tejas Reddy, Hannah Sweazey, and Hannah Dykens*
+
+`lab_05.ipynb` --> contains the lab questions and our answers
+
 # Lab 4 Assignment
 ## *In the [`lab_04/`](https://github.com/hdykens/UU_Lab_Repo/tree/main/lab_04) directory*
 
