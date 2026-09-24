@@ -183,4 +183,5 @@ cython_debug/
 .vscode
 */data/*.csv
 */data/*.gz
+*/data/*.parquet
 .DS_Store
