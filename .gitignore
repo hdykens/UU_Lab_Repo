@@ -185,3 +185,4 @@ cython_debug/
 */data/*.gz
 */data/*.parquet
 .DS_Store
+*/src/*
