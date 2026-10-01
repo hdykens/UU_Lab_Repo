@@ -5,6 +5,9 @@
 
 `lab_05.ipynb` --> contains the lab questions and our answers
 
+
+`lab_05.pdf` --> converted the Jupyter Notebook to a .pdf to ensure it renders for grading
+
 # Lab 4 Assignment
 ## *In the [`lab_04/`](https://github.com/hdykens/UU_Lab_Repo/tree/main/lab_04) directory*
 
