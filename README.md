@@ -1,3 +1,17 @@
+# Lab 6 Assignment
+## *In the [`lab_06/`](https://github.com/hdykens/UU_Lab_Repo/tree/main/lab_06) directory*
+
+## *Worked on by Tejas Reddy, Hannah Sweazey, and Hannah Dykens*
+
+`lab_06.ipynb` --> contains the lab questions and our answers
+
+
+`lab_06_report.pdf` --> final summary report in pdf format
+
+`lab_06_report.md` --> final summary report in markdown format
+
+`imgs/` --> graph pictures for inclusion in report
+
 # Lab 5 Assignment
 ## *In the [`lab_05/`](https://github.com/hdykens/UU_Lab_Repo/tree/main/lab_05) directory*
 

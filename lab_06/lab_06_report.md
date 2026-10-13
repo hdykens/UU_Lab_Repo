@@ -31,8 +31,8 @@
       <th>
       <th>failure</th>
       <th>success</th>
-      <th>failure_p</th>
-      <th>success_p</th>
+      <th>failure_proportion</th>
+      <th>success_proportion</th>
     </tr>
     <tr>
       
