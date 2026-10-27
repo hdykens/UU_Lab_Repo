@@ -6,6 +6,8 @@ Here is a link to our `lab_07.ipynb` equivalent on Google Colab --> https://cola
 
 `lab_07.ipynb` --> final answers downloaded from the Google Colab version
 
+`Lab07_extra_help.ipynb` --> use this file to see where our lab code came from
+
 # Lab 6 Assignment
 ## *In the [`lab_06/`](https://github.com/hdykens/UU_Lab_Repo/tree/main/lab_06) directory*
 
