@@ -2,6 +2,9 @@
 ## *In the [`lab_07/`](https://github.com/hdykens/UU_Lab_Repo/tree/main/lab_07) directory*
 
 ## *Worked on by Tejas Reddy, Hannah Sweazey, and Hannah Dykens*
+Here is a link to our `lab_07.ipynb` equivalent on Google Colab --> https://colab.research.google.com/drive/1Of0kzLCgxCHHnKpET-jkr8YioLcX3zlJ
+
+`lab_07.ipynb` --> final answers downloaded from the Google Colab version
 
 # Lab 6 Assignment
 ## *In the [`lab_06/`](https://github.com/hdykens/UU_Lab_Repo/tree/main/lab_06) directory*
