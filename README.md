@@ -1,3 +1,8 @@
+# Lab 7 Assignment
+## *In the ['lab_07/'](https://github.com/hdykens/UU_Lab_Repo/tree/main/lab_07) directory*
+
+## *Worked on by Tejas Reddy, Hannah Sweazey, and Hannah Dykens*
+
 # Lab 6 Assignment
 ## *In the [`lab_06/`](https://github.com/hdykens/UU_Lab_Repo/tree/main/lab_06) directory*
 
