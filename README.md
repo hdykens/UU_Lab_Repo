@@ -1,5 +1,5 @@
 # Lab 8 Assignment
-## *In the [`lab_08/`](https://github.com/hdykens/UU_Lab_Repo/tree/main/lab08) directory*
+## *In the [`lab_08/`](https://github.com/hdykens/UU_Lab_Repo/tree/main/lab_08) directory*
 
 ## *Worked on by Tejas Reddy, Hannah Sweazey, and Hannah Dykens*
 
