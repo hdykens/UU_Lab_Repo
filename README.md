@@ -1,5 +1,3 @@
-
-
 # Lab 9 Assignment
 
 ## *In the [`lab_09/`](https://github.com/hdykens/UU_Lab_Repo/tree/main/lab_09) directory*
@@ -7,6 +5,8 @@
 ## *Worked on by Tejas Reddy, Hannah Sweazey, and Hannah Dykens*
 
 `lab_09/Lab09_markov_chain.ipynb` --> lab with answers
+
+`lab_09/generate_markov_data.ipynb` --> helper file
 
 # Lab 8 Assignment
 
