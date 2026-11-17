@@ -1,3 +1,11 @@
+# Lab 10 Assignment
+
+## *In the [`lab_10/`](https://github.com/hdykens/UU_Lab_Repo/tree/main/lab_10) directory*
+
+## *Worked on by Tejas Reddy, Hannah Sweazey, and Hannah Dykens*
+
+`lab_10/Lab10_survival_lab.ipynb` --> lab with answers
+
 # Lab 9 Assignment
 
 ## *In the [`lab_09/`](https://github.com/hdykens/UU_Lab_Repo/tree/main/lab_09) directory*
